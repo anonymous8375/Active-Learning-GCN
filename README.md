@@ -2,7 +2,7 @@
 
 graph active learning using graph convolutional network (GCN)
 Code file for the paper:
-"Regional based query in graph active learning"  by Roy Abel and Yoram Louzoun
+"Regional based query in graph active learning" 
 
 ## GCN
 There are 4 models of GCN:
