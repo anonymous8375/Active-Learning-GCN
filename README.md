@@ -75,6 +75,4 @@ if __name__ == '__main__':
 		active_learning(dataset, 0.15, out_interval=60, iterations=20, batch=1)
 	
 ```
-# Acitve-Learning
-# Active-Learning-
-# Active-Learning
+
