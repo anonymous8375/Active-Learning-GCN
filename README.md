@@ -49,7 +49,7 @@ The available methods are:
 * random
 each method has sub-parameters which are described at explore_exploit. for example margin=True is used in region entropy to perform region margin.
 
-For more details about the methods see Abel et al. "Regional based query in graph active learning" (2019)
+For more details about the methods see the paper: "Regional based query in graph active learning" (2019)
 
 ## Code Example
 
